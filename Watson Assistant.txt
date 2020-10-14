@@ -1,0 +1,17 @@
+Details
+Watson Assistant lets you build conversational interfaces into any application, device, or channel.
+
+Offering
+Watson Assistant
+Created
+10/11/2020
+Created by
+si2020gc00250@smartinternz.com
+Resource group
+Default
+Location
+Dallas
+Status
+Active
+
+Add tags
